@@ -1,6 +1,5 @@
-## Hi there 👋
 
-Hola Mundo, soy Nicolás!
+##Hola Mundo 👋, soy Nicolás! 
 Estoy transitando mi último año en la tecnicatura universitaria en programacion en la UTN Cordoba, lo que significa que ya tengo los dedos listos para el teclado y la lógica afilada para resolver problemas complejos.
 
 A diferencia del estereotipo del desarrollador solitario, me encanta conectar con la gente. Soy una persona comunicativa y con gran sentido del humor, convencido de que el software se construye mejor cuando hay buena onda y feedback constante en el equipo.
@@ -16,13 +15,13 @@ portfolio
 🛠 Skills
 🛠️ Habilidades Técnicas y Profesionales
 
-Backend: Dominio de C# con .NET y Node.js con Express, permitiéndome elegir la mejor herramienta según la envergadura del proyecto.
+# Backend: Dominio de C# con .NET y Node.js con Express, permitiéndome elegir la mejor herramienta según la envergadura del proyecto.
 
-Frontend: Creación de interfaces dinámicas y funcionales utilizando JavaScript (ES6+), HTML5 y CSS3, con un fuerte enfoque en la modularización y mantenibilidad.
+# Frontend: Creación de interfaces dinámicas y funcionales utilizando JavaScript (ES6+), HTML5 y CSS3, con un fuerte enfoque en la modularización y mantenibilidad.
 
-Bases de Datos: Experiencia sólida en el diseño de modelos de datos, tanto relacionales (SQL Server) con Entity Framework Core, como NoSQL (MongoDB) con Mongoose.
+# Bases de Datos: Experiencia sólida en el diseño de modelos de datos, tanto relacionales (SQL Server) con Entity Framework Core, como NoSQL (MongoDB) con Mongoose.
 
-Herramientas y Metodologías:
+## Herramientas y Metodologías:
 
 Control de Versiones: Git & GitHub (Manejo de ramas, resolución de conflictos, Gitflow).
 
@@ -30,7 +29,7 @@ ORM/ODM: Entity Framework Core, Mongoose.
 
 Soft Skills: Comunicación asertiva, negociación comercial, trabajo en equipo y resolución de problemas. Desarrollo de Software (Full Stack)
 
-Arquitectura y Lógica
+## Arquitectura y Lógica
 
 Diseño de APIs: Construcción de APIs RESTful robustas, implementando middlewares de seguridad y control de errores personalizado.
 
@@ -42,8 +41,7 @@ Visión de Negocio: Gracias a mi trayectoria comercial, entiendo que el código 
 
 Negociación y Resolución: Experiencia en la gestión de expectativas y resolución de conflictos, habilidades críticas en el desarrollo de software moderno.
 
-Tech Stack
-GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=112075-MOYANO-NICOLAS-2W2&theme=dark&locale=es&card_width=541)](https://git.io/streak-stats)
 
 Estadisticas
-nicolainas-code's Top Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=112075-MOYANO-NICOLAS-2W2&theme=dark&show_icons=true&hide_border=true&layout=compact)
